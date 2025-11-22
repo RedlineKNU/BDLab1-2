@@ -1,7 +1,6 @@
 const { Pool } = require('pg');
 const mongoose = require('mongoose');
 
-// --- НАЛАШТУВАННЯ ---
 const PG_CONFIG = {
     user: 'Andrii',
     host: 'localhost',

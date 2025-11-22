@@ -1,4 +1,3 @@
-// redis_demo.js
 const { createClient } = require('redis');
 
 async function runRedisDemo() {
